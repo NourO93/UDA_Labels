@@ -1,2 +1,2 @@
 # UDA_Labels
-Coming soon... :)
+full documentation and citation instructions coming soon...
